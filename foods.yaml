@@ -1,0 +1,404 @@
+- name: Apple
+  calories: 95
+- name: Chicken Breast (cooked)
+  calories: 165
+- name: Rice (cooked)
+  calories: 205
+- name: Egg (boiled)
+  calories: 68
+- name: Broccoli (steamed)
+  calories: 55
+- name: Salmon (grilled)
+  calories: 206
+- name: Pasta (cooked)
+  calories: 200
+- name: Banana
+  calories: 105
+- name: Almonds (1 oz)
+  calories: 160
+- name: Greek Yogurt (plain
+  calories: 1 cup),100
+- name: Carrot (raw)
+  calories: 41
+- name: Oatmeal (cooked)
+  calories: 150
+- name: Spinach (raw)
+  calories: 7
+- name: Avocado
+  calories: 160
+- name: Sweet Potato (baked)
+  calories: 180
+- name: Quinoa (cooked)
+  calories: 222
+- name: Orange
+  calories: 62
+- name: Lean Ground Beef (cooked)
+  calories: 250
+- name: Lentils (cooked)
+  calories: 230
+- name: Blueberries
+  calories: 85
+- name: Cheese (cheddar
+  calories: 1 oz),110
+- name: Shrimp (cooked)
+  calories: 84
+- name: Tomato
+  calories: 22
+- name: Cucumber
+  calories: 16
+- name: Peanut Butter (2 tbsp)
+  calories: 180
+- name: Tuna (canned in water)
+  calories: 116
+- name: Milk (whole
+  calories: 1 cup),150
+- name: Strawberries
+  calories: 50
+- name: Beef Steak (grilled)
+  calories: 250
+- name: Green Beans (steamed)
+  calories: 31
+- name: Cauliflower (steamed)
+  calories: 25
+- name: Pineapple
+  calories: 82
+- name: Brown Rice (cooked)
+  calories: 215
+- name: Cottage Cheese (1 cup)
+  calories: 220
+- name: Walnuts (1 oz)
+  calories: 185
+- name: Turkey Breast (cooked)
+  calories: 135
+- name: Eggplant (cooked)
+  calories: 20
+- name: Mango
+  calories: 60
+- name: Chickpeas (cooked)
+  calories: 269
+- name: Bell Pepper
+  calories: 25
+- name: Salad Greens
+  calories: 5
+- name: Yogurt (low-fat
+  calories: 1 cup),150
+- name: Peach
+  calories: 59
+- name: Dark Chocolate (1 oz)
+  calories: 150
+- name: Tofu (firm
+  calories: cooked),144
+- name: Asparagus (cooked)
+  calories: 20
+- name: Pecans (1 oz)
+  calories: 200
+- name: Cantaloupe
+  calories: 53
+- name: Ground Turkey (cooked)
+  calories: 220
+- name: Cabbage (raw)
+  calories: 22
+- name: Black Beans (cooked)
+  calories: 114
+- name: Hazelnuts (1 oz)
+  calories: 176
+- name: Apricot
+  calories: 17
+- name: Pork Chop (grilled)
+  calories: 221
+- name: Brussels Sprouts (roasted)
+  calories: 56
+- name: Pumpkin Seeds (1 oz)
+  calories: 150
+- name: Green Peas (cooked)
+  calories: 62
+- name: Cranberries (dried)
+  calories: 100
+- name: Soy Milk (unsweetened
+  calories: 1 cup),80
+- name: Whole Wheat Bread (1 slice)
+  calories: 69
+- name: Artichoke (steamed)
+  calories: 60
+- name: Cottage Cheese (low-fat
+  calories: 1 cup),210
+- name: Kiwi
+  calories: 61
+- name: Venison (cooked)
+  calories: 158
+- name: Celery
+  calories: 6
+- name: Cherry Tomatoes
+  calories: 15
+- name: Papaya
+  calories: 59
+- name: Ground Chicken (cooked)
+  calories: 165
+- name: Lettuce (iceberg)
+  calories: 5
+- name: Cashews (1 oz)
+  calories: 155
+- name: Pomegranate
+  calories: 83
+- name: White Potato (baked)
+  calories: 130
+- name: Cheddar Cheese (1 oz)
+  calories: 110
+- name: Clams (cooked)
+  calories: 126
+- name: Brown Lentils (cooked)
+  calories: 230
+- name: Cranberry Juice (unsweetened
+  calories: 1 cup),46
+- name: Plum
+  calories: 30
+- name: Peanuts (1 oz)
+  calories: 160
+- name: Whole Wheat Pasta (cooked)
+  calories: 174
+- name: Raisins
+  calories: 108
+- name: Mushrooms (raw)
+  calories: 15
+- name: Grapes
+  calories: 52
+- name: Cottage Cheese (2% fat
+  calories: 1 cup),206
+- name: Chicken Caesar Salad
+  calories: 360
+- name: Vegetable Stir-Fry
+  calories: 250
+- name: Grilled Cheese Sandwich
+  calories: 320
+- name: Margherita Pizza (1 slice)
+  calories: 285
+- name: Beef Burrito
+  calories: 400
+- name: Chicken Alfredo Pasta
+  calories: 450
+- name: Spinach and Feta Omelette
+  calories: 320
+- name: Tuna Salad Wrap
+  calories: 300
+- name: Veggie Burger
+  calories: 250
+- name: Chicken Teriyaki Bowl
+  calories: 500
+- name: Salmon and Quinoa Bowl
+  calories: 400
+- name: Caprese Salad
+  calories: 220
+- name: Peanut Butter and Jelly Sandwich
+  calories: 400
+- name: Shrimp Scampi
+  calories: 350
+- name: Vegetarian Chili
+  calories: 300
+- name: BBQ Chicken Wrap
+  calories: 350
+- name: Mushroom Risotto
+  calories: 320
+- name: Turkey Club Sandwich
+  calories: 450
+- name: Chicken Quesadilla
+  calories: 400
+- name: Spaghetti Bolognese
+  calories: 450
+- name: Sushi Roll (California Roll)
+  calories: 250
+- name: Chicken Noodle Soup
+  calories: 150
+- name: Egg Fried Rice
+  calories: 210
+- name: Hawaiian Chicken Skewers
+  calories: 300
+- name: Mediterranean Salad
+  calories: 350
+- name: Pasta Primavera
+  calories: 320
+- name: Beef Stir-Fry with Broccoli
+  calories: 350
+- name: Quinoa Salad with Chickpeas
+  calories: 300
+- name: Margherita Panini
+  calories: 400
+- name: Chicken and Broccoli Casserole
+  calories: 380
+- name: Shrimp and Avocado Salad
+  calories: 300
+- name: Turkey and Swiss Sandwich
+  calories: 350
+- name: Pesto Pasta with Cherry Tomatoes
+  calories: 400
+- name: Vegetable Lasagna
+  calories: 350
+- name: Chicken Shawarma Wrap
+  calories: 400
+- name: Vegan Buddha Bowl
+  calories: 450
+- name: Turkey and Cranberry Wrap
+  calories: 350
+- name: Steak Fajitas
+  calories: 450
+- name: Vegetarian Pad Thai
+  calories: 350
+- name: Chicken Enchiladas
+  calories: 400
+- name: Teriyaki Salmon Sushi Bowl
+  calories: 450
+- name: Eggplant Parmesan
+  calories: 300
+- name: Turkey and Quinoa Stuffed Peppers
+  calories: 350
+- name: Chicken Caesar Wrap
+  calories: 350
+- name: Chickpea Curry
+  calories: 300
+- name: BLT Sandwich
+  calories: 400
+- name: Vegetarian Pizza (1 slice)
+  calories: 250
+- name: Chicken Piccata
+  calories: 350
+- name: Beef and Broccoli Noodle Stir-Fry
+  calories: 400
+- name: Lentil Soup
+  calories: 200
+- name: Avocado Toast
+  calories: 200
+- name: Turkey Chili
+  calories: 300
+- name: Chicken Pesto Panini
+  calories: 400
+- name: Veggie Breakfast Burrito
+  calories: 300
+- name: Salmon Salad Nicoise
+  calories: 450
+- name: Tofu Stir-Fry
+  calories: 300
+- name: Chicken and Rice Casserole
+  calories: 350
+- name: Vegan Lentil Burger
+  calories: 300
+- name: Shrimp and Quinoa Salad
+  calories: 350
+- name: Chicken Fajita Quesadilla
+  calories: 400
+- name: Penne alla Vodka
+  calories: 350
+- name: Turkey and Cranberry Panini
+  calories: 400
+- name: Vegetarian Sushi Roll
+  calories: 200
+- name: Greek Salad
+  calories: 250
+- name: Chicken Marsala
+  calories: 400
+- name: Zucchini Noodles with Pesto
+  calories: 250
+- name: Vegetable Curry
+  calories: 300
+- name: Chicken and Waffle Sandwich
+  calories: 500
+- name: Black Bean Quesadilla
+  calories: 350
+- name: Salmon and Asparagus Sheet Pan Dinner
+  calories: 400
+- name: Vegetarian Nachos
+  calories: 300
+- name: Chocolate Cake (slice)
+  calories: 400
+- name: Apple Pie (slice)
+  calories: 300
+- name: Cheesecake (slice)
+  calories: 450
+- name: Brownie
+  calories: 200
+- name: Strawberry Shortcake
+  calories: 250
+- name: Tiramisu (1 piece)
+  calories: 300
+- name: Ice Cream Sundae
+  calories: 350
+- name: Cupcakes (vanilla with frosting)
+  calories: 200
+- name: Fruit Tart (1 slice)
+  calories: 180
+- name: Peach Cobbler (1 serving)
+  calories: 300
+- name: Chocolate Chip Cookies (2 cookies)
+  calories: 200
+- name: Pumpkin Pie (slice)
+  calories: 320
+- name: Cannoli
+  calories: 150
+- name: Banana Split
+  calories: 500
+- name: Red Velvet Cake (slice)
+  calories: 450
+- name: Lemon Sorbet (1 scoop)
+  calories: 100
+- name: Rice Pudding
+  calories: 150
+- name: Molten Lava Cake
+  calories: 500
+- name: Cherry Cheesecake Ice Cream (1/2 cup)
+  calories: 220
+- name: Pecan Pie (slice)
+  calories: 450
+- name: Chocolate Mousse
+  calories: 250
+- name: Carrot Cake (slice)
+  calories: 400
+- name: Apple Crisp (1 serving)
+  calories: 300
+- name: Key Lime Pie (slice)
+  calories: 350
+- name: Cinnamon Roll (1 piece)
+  calories: 300
+- name: Blueberry Cheesecake (slice)
+  calories: 380
+- name: Mango Sorbet (1 scoop)
+  calories: 90
+- name: S'mores Pie (slice)
+  calories: 420
+- name: Chocolate Covered Strawberries (4 pieces)
+  calories: 200
+- name: Pistachio Ice Cream (1/2 cup)
+  calories: 150
+- name: Eclairs
+  calories: 250
+- name: Baklava (1 piece)
+  calories: 200
+- name: Peanut Butter Brownie
+  calories: 300
+- name: Caramel Apple (1 medium)
+  calories: 190
+- name: Raspberry Sorbet (1 scoop)
+  calories: 80
+- name: Chocolate Fondue (per person)
+  calories: 300
+- name: Coconut Cream Pie (slice)
+  calories: 350
+- name: Fudge Brownie Sundae
+  calories: 450
+- name: Tropical Fruit Sorbet (1 scoop)
+  calories: 100
+- name: Cheese Danish
+  calories: 300
+- name: Mint Chocolate Chip Ice Cream (1/2 cup)
+  calories: 220
+- name: Cranberry White Chocolate Cookies (2 cookies)
+  calories: 180
+- name: Chocolate Covered Pretzels (1 oz)
+  calories: 150
+- name: Pumpkin Roll (slice)
+  calories: 250
+- name: Caramel Pecan Turtle Pie (slice)
+  calories: 400
+- name: Banana Foster
+  calories: 300
+- name: Lemon Bars (2 bars)
+  calories: 250
+- name: Rocky Road Ice Cream (1/2 cup)
+  calories: 250
